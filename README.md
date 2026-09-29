@@ -38,7 +38,7 @@ const manthan = {
 ```
 
 - 🔭 Currently working on **[Excelerate](https://4excelerate.org/)**
-- 🌱 Deepening my knowledge of **Java (Spring Boot)** and **Angular**
+- 🌱 Deepening my knowledge of **Java** and **Angular**
 - 💼 Shipped production features at **HinduMandirPuja.in** and **Margdarshan IAS**
 - 💬 Ask me about **Full Stack Development**
 - 📫 Reach me at **manthanawasthi4041@gmail.com**
@@ -55,7 +55,7 @@ const manthan = {
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,nestjs,python,graphql&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,nestjs,python,graphql&theme=dark" alt="backend" />
 
 **Databases**
 
@@ -81,22 +81,6 @@ const manthan = {
 | Full Stack Developer | **Margdarshan IAS** | Built and maintained web platform features end to end |
 
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=manthan4041&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan4041&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=manthan4041&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manthan4041&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
-
-</div>
-
-
----
 
 <!--
 OPTIONAL: Contribution snake animation.
