@@ -79,9 +79,7 @@ const manthan = {
 | Full Stack Developer | **HinduMandirPuja.in** | Production web features with React / Next.js, Node.js and PostgreSQL |
 | Full Stack Developer | **Margdarshan IAS** | Built and maintained web platform features end to end |
 
-<sub>Add 1–2 measurable results per role (e.g. "cut page load time by 40%", "served 10k+ users") — recruiters love numbers.</sub>
 
----
 
 ## 📊 GitHub Stats
 
