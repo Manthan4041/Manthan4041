@@ -76,6 +76,7 @@ const manthan = {
 
 | Role | Company | Highlights |
 |------|---------|-----------|
+| Full Stack Developer | **Excelerate** | Building and maintaining production features across Angular, React, TypeScript, APIs and backend services|
 | Full Stack Developer | **HinduMandirPuja.in** | Production web features with React / Next.js, Node.js and PostgreSQL |
 | Full Stack Developer | **Margdarshan IAS** | Built and maintained web platform features end to end |
 
@@ -94,13 +95,6 @@ const manthan = {
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manthan4041&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
-  </a>
-</div>
 
 ---
 
