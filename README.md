@@ -67,29 +67,6 @@ const manthan = {
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-> Replace `REPO_NAME` with your repository names. Pin your best 4–6.
-
-<div align="center">
-
-<a href="https://github.com/Manthan4041/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan4041&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Manthan4041/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan4041&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Manthan4041/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan4041&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Manthan4041/REPO_NAME_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan4041&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 👉 **More projects:** [3d-portfolio-sigma-umber.vercel.app](https://3d-portfolio-sigma-umber.vercel.app/)
 
