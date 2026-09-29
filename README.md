@@ -1,32 +1,181 @@
-<h1 align="center">Hi 👋, I'm Manthan awasthi</h1>
-<h3 align="center">Full Stack Developer | Building Scalable Web Applications & AI-Powered Solutions</h3>
+<!-- ═════════════════════════ HEADER ═════════════════════════ -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manthan4041&label=Profile%20views&color=0e75b6&style=flat" alt="manthan4041" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Manthan%20Awasthi&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="header" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthan4041" alt="manthan4041" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Java+Spring+Boot+%26+PostgreSQL;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on [Excelerate](https://4excelerate.org/)
+<br/>
 
-- 🌱 I’m currently learning **JAVA, ANGULAR**
+[![Portfolio](https://img.shields.io/badge/Portfolio-3d--portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-sigma-umber.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-awasthi-47475234a/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manthanawasthi4041@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1xLbseKt3npfmhtVvllOyy17CfxOGiyN3/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [https://3d-portfolio-sigma-umber.vercel.app/](https://3d-portfolio-sigma-umber.vercel.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=manthan4041&label=Profile%20views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/manthan4041?style=flat-square&color=38BDF8)
+![Open to Work](https://img.shields.io/badge/Open%20to-SDE%20%2F%20Full%20Stack%20Roles-success?style=flat-square)
 
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```js
+const manthan = {
+  role: "Full Stack Developer",
+  education: "B.Tech CSE @ AKGEC, Ghaziabad (2026)",
+  location: "Ghaziabad / Delhi NCR, India 🇮🇳",
+  experience: "~2 years building production apps",
+  currentlyBuilding: "Excelerate — 4excelerate.org",
+  strengths: ["Scalable web apps", "REST APIs", "Clean UI/UX", "Performance"],
+  lookingFor: "SDE / Full Stack opportunities",
+  askMeAbout: ["React", "Next.js", "Spring Boot", "System design basics"],
+};
+```
+
+- 🔭 Currently working on **[Excelerate](https://4excelerate.org/)**
+- 🌱 Deepening my knowledge of **Java (Spring Boot)** and **Angular**
+- 💼 Shipped production features at **HinduMandirPuja.in** and **Margdarshan IAS**
 - 💬 Ask me about **Full Stack Development**
+- 📫 Reach me at **manthanawasthi4041@gmail.com**
 
-- 📫 How to reach me **manthanawasthi4041@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xLbseKt3npfmhtVvllOyy17CfxOGiyN3/view?usp=sharing](https://drive.google.com/file/d/1xLbseKt3npfmhtVvllOyy17CfxOGiyN3/view?usp=sharing)
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manthan-awasthi-47475234a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manthan-awasthi-47475234a/" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**Frontend**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthan4041&show_icons=true&locale=en&layout=compact" alt="manthan4041" /></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,angular,bootstrap&theme=dark" alt="frontend" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manthan4041&show_icons=true&locale=en" alt="manthan4041" /></p>
+**Backend**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manthan4041&" alt="manthan4041" /></p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,nestjs,python,graphql&theme=dark" alt="backend" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase&theme=dark" alt="databases" />
+
+**DevOps, Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,nginx,git,github,postman,vercel,figma,linux&theme=dark" alt="tools" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+> Replace `REPO_NAME` with your repository names. Pin your best 4–6.
+
+<div align="center">
+
+<a href="https://github.com/Manthan4041/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan4041&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Manthan4041/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan4041&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Manthan4041/REPO_NAME_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan4041&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Manthan4041/REPO_NAME_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan4041&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+👉 **More projects:** [3d-portfolio-sigma-umber.vercel.app](https://3d-portfolio-sigma-umber.vercel.app/)
+
+---
+
+## 💼 Experience
+
+| Role | Company | Highlights |
+|------|---------|-----------|
+| Full Stack Developer | **HinduMandirPuja.in** | Production web features with React / Next.js, Node.js and PostgreSQL |
+| Full Stack Developer | **Margdarshan IAS** | Built and maintained web platform features end to end |
+
+<sub>Add 1–2 measurable results per role (e.g. "cut page load time by 40%", "served 10k+ users") — recruiters love numbers.</sub>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manthan4041&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthan4041&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=manthan4041&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manthan4041&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manthan4041&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
+  </a>
+</div>
+
+---
+
+<!--
+OPTIONAL: Contribution snake animation.
+1. Create the file .github/workflows/snake.yml in your manthan4041/manthan4041 repo:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+2. Run the workflow once, then uncomment the block below.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/manthan4041/manthan4041/output/snake.svg" alt="snake animation" />
+</div>
+-->
+
+## 🤝 Let's Connect
+
+I'm open to **SDE / Full Stack Developer** roles and interesting collaborations. If you're building something cool, I'd love to hear about it.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-awasthi-47475234a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manthanawasthi4041@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-sigma-umber.vercel.app/)
+
+<br/>
+
+*"Make it work, make it right, make it fast."* ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
